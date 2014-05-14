@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery.autoellipsis</artifactId>
-    <version>1.0.10-SNAPSHOT</version>
+    <version>1.0.10</version>
     <name>jquery.autoellipsis</name>
     <description>WebJar for jquery.autoellipsis</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jquery.autoellipsis</url>
         <connection>scm:git:https://github.com/webjars/jquery.autoellipsis.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery.autoellipsis.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery.autoellipsis-1.0.10</tag>
     </scm>
     
     <dependencies>
